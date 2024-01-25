@@ -11,7 +11,7 @@
  - run Bellande_Browser_Application
 
 ## TO RUN ON WINDOWS with WSL
----> Same Incrtrunctions os Linux
+---> Same Incrtrunctions as Linux
 
 ## TO RUN ON WINDOWS without WSL
 ----> WIll soon be released
