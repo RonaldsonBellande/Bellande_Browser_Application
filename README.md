@@ -2,13 +2,13 @@
 
 ## TO RUN FOR LINUX
  - Git clone
- - unzip Bellande_Browser_Application.zip
+ - run ./unzip_linux_mac.sh
  - run Bellande_Browser_Application
 
 ## TO RUN FOR MACOS
  - Git clone
- - unzip Bellande_Browser_Application.zip
- - run Bellande_Browser_Application
+ - run ./unzip_linux_mac.sh
+ - run Bellande_Browser_Application.app
 
 ## TO RUN ON WINDOWS with WSL
 ---> Same Incrtrunctions as Linux
