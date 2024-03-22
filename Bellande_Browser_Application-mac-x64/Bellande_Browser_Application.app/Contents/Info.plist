@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+            <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+            <plist version="1.0">
+            <dict>
+                <key>CFBundleExecutable</key>
+                <string>./Browser_Application/Bellande_Browser_Application-mac-x64/Bellande_Browser_Application</string>
+                <key>CFBundleName</key>
+                <string>./Browser_Application/Bellande_Browser_Application-mac-x64/Bellande_Browser_Application</string>
+                <key>CFBundlePackageType</key>
+                <string>APPL</string>
+            </dict>
+            </plist>
